@@ -28,6 +28,6 @@ int main(void)
     double rad = atan(x);
     double deg = rad_to_deg(rad);
     printf("%.2f", deg);
-    
+       
     return 0;
 }
